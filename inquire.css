@@ -231,8 +231,16 @@ body{
             font-family: "Madimi One", sans-serif;
             font-weight: 600;
             font-style: normal;
-            
+            height: 400px;
         }
+
+        .contact{
+            position: absolute;
+            bottom: 5em;
+        }
+
+
+
         input[type=text], select {
       
             padding: 8px;
